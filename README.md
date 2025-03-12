@@ -46,7 +46,7 @@ GroCrate is currently in the **patent and commercialization phase**, with ongoin
 GroCrate is open to **collaborations, investors, and sustainability advocates**.  
 If you're interested in **eco-friendly innovation** or want to contribute, reach out!
 
-📧 Contact: [your.email@example.com]  
+📧 Contact: [brad@circle.solutions]  
 🌍 Website: [Coming Soon]  
 🐙 GitHub: [https://github.com/bradtaco/grocrate](https://github.com/bradtaco/grocrate)
 
